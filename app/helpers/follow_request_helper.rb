@@ -1,0 +1,2 @@
+module FollowRequestHelper
+end
